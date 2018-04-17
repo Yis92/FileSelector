@@ -1,10 +1,11 @@
 
 ## 文件选择器
 
-![](https://github.com/Yis92/FileSelector/blob/master/image/3.jpg)
-![](https://github.com/Yis92/FileSelector/blob/master/image/2.jpg)
-![](https://github.com/Yis92/FileSelector/blob/master/image/1.jpg)
 #### 效果图：
+
+| Zhihu Style                    | Dracula Style                     | Preview                          |
+|:------------------------------:|:---------------------------------:|:--------------------------------:|
+|![](image/1.jpg) | ![](image/2.jpg) | ![](image/3.jpg)|
 
 分别使用遍历文件夹的方式和查询 Androd MediaStore多媒体库资源</br></br>
 
