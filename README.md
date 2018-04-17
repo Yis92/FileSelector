@@ -5,7 +5,7 @@
 
 | Zhihu Style                    | Dracula Style                     | Preview                          |
 |:------------------------------:|:---------------------------------:|:--------------------------------:|
-|![](image/1.png) | ![](image/2.png) | ![](image/3.png)|
+|![](image/1.jpg) | ![](image/2.jpg) | ![](image/3.jpg)|
 
 分别使用遍历文件夹的方式和查询 Androd MediaStore多媒体库资源</br></br>
 
