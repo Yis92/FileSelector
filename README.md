@@ -1,9 +1,9 @@
 
 ## 文件选择器
 
-![](https://github.com/Yis92/FileSelector/blob/master/image/3.jpg)
-![](https://github.com/Yis92/FileSelector/blob/master/image/2.jpg)
-![](https://github.com/Yis92/FileSelector/blob/master/image/1.jpg)
+![](https://github.com/Yis92/FileSelector/blob/master/image/6.jpg)
+![](https://github.com/Yis92/FileSelector/blob/master/image/5.jpg)
+![](https://github.com/Yis92/FileSelector/blob/master/image/4.jpg)
 #### 效果图：
 
 分别使用遍历文件夹的方式和查询 Androd MediaStore多媒体库资源</br></br>
